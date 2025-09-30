@@ -1,4 +1,6 @@
-## Terms crossed
+## Terms / methods crossed # GO
+
+Receiver (Go): A function which belongs to a type and is to be used on the values
 
 ## Backend / API
 
@@ -11,6 +13,8 @@ Schema: The expected structure of a payload (fields, types, required/optional).
 Validation: Checking that incoming data matches the schema.
 
 Telemetry: Is an automated process of collecting, transmitting data to a place to be analyzed
+
+Headers: Tells the backend the type of data that's coming
 
 ## Database
 
